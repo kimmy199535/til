@@ -1,5 +1,5 @@
 ---
-name: Trouble Shooting
+name: Troubleshooting
 about: 코딩 중 생겨난 문제점과 해결 방식에 대해서 작성합니다.
 title: "[Trouble Shooting]"
 labels: ''
